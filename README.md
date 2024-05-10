@@ -29,6 +29,7 @@ Some modpacks use fabric, quilt, and other modding API generic instructions will
   - Older version of Dawncraft with some extra QOL mods, more weapons, and transportation.
    -  Use with a semi powerful computer if using shaders
 - Contains 286+ mods and shader packs
+- Google Drive Link: https://drive.google.com/file/d/1RmTH6ttsCPfg0Nq04IRmsRHuSVK82hsn/view?usp=sharing
 
 ## Changelog
 
