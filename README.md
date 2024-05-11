@@ -30,6 +30,13 @@ Some modpacks use fabric, quilt, and other modding API generic instructions will
    -  Use with a semi powerful computer if using shaders
 - Contains 286+ mods and shader packs
 - Google Drive Link: https://drive.google.com/file/d/1RmTH6ttsCPfg0Nq04IRmsRHuSVK82hsn/view?usp=sharing
+#### 7 Days to Mine 1.2 Modpack (Forge)
+- Homemade modpack involving The Flesh Hates and other Horror themed mods
+- Use with a powerful computer as the shaders are vital for the full experience
+- Contains 158+ mods
+- Works great using server software after debugging
+- Best used with Nvidia Graphics (AMD / INTEL works fine also)
+- Google Drive Link: https://drive.google.com/file/d/1ou8h51XiiQY_NvyvYikWmmT1p3ixaGeB/view?usp=sharing  
 
 ## Changelog
 
