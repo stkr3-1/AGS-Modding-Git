@@ -25,7 +25,7 @@ Some modpacks use fabric, quilt, and other modding API generic instructions will
     5. Then locate the mods you want to add, and drag and drop them into the "mods" folder
 
 ## Current Modpacks
-#### Dawn Craft Co-op 1.27_hf
+#### Dawn Craft Co-op 1.27_hf (Forge)
   - Older version of Dawncraft with some extra QOL mods, more weapons, and transportation.
    -  Use with a semi powerful computer if using shaders
 - Contains 286+ mods and shader packs
