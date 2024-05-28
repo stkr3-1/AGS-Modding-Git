@@ -36,8 +36,14 @@ Some modpacks use fabric, quilt, and other modding API generic instructions will
 - Contains 158+ mods
 - Works great using server software after debugging
 - Best used with Nvidia Graphics (AMD / INTEL works fine also)
-- Google Drive Link: https://drive.google.com/file/d/1ou8h51XiiQY_NvyvYikWmmT1p3ixaGeB/view?usp=sharing  
-
+- Google Drive Link: https://drive.google.com/file/d/1ou8h51XiiQY_NvyvYikWmmT1p3ixaGeB/view?usp=sharing
+#### 7 Days to Mine: Road to Desolation 0.3 Modpack (Forge/Fabric)
+- Story oriented version of the original 7 Days to Mine modpack
+- Best used with Nvidia Graphics (AMD / INTEL will still work, just less optimized)
+- Contains 289 mods
+- Not server optimized just yet
+- Features Essential
+- Google Drive Link: https://drive.google.com/file/d/14MH5Qe49ZYnefpF-oTy_y-wUwE2ry-57/view?usp=drive_link
 ## Changelog
 
 #### 5/10/24 
