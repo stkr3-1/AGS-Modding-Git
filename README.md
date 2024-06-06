@@ -43,7 +43,7 @@ Some modpacks use fabric, quilt, and other modding API generic instructions will
 - Contains 289 mods
 - Not server optimized just yet
 - Features Essential
-- Google Drive Link: https://drive.google.com/file/d/14MH5Qe49ZYnefpF-oTy_y-wUwE2ry-57/view?usp=drive_link
+- Google Drive Link: https://drive.google.com/file/d/1Tm6miJTzpZT9AkjkCrFZHklP1VYmk46h/view?usp=drive_link
 ## Changelog
 
 #### 5/10/24 
