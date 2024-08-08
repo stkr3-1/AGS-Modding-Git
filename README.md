@@ -44,7 +44,14 @@ Some modpacks use fabric, quilt, and other modding API generic instructions will
 - Not server optimized just yet
 - Features Essential
 - Google Drive Link: https://drive.google.com/file/d/1Tm6miJTzpZT9AkjkCrFZHklP1VYmk46h/view?usp=drive_link
+## Current Mods
+#### 2727's Rigs and Things 1.20.1 FORGE
+- Adds rare oil rig structures
+- yeah thats about it
+- Google Drive Link 1.0: https://drive.google.com/file/d/1_J1FjQl8hBoN21X2CJX0X-tCV4bumUYZ/view?usp=sharing
 ## Changelog
-
+#### 8/8/24
+    - Added mods
+    - QOL updates
 #### 5/10/24 
     - Created folder and README
