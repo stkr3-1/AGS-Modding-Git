@@ -49,6 +49,7 @@ Some modpacks use fabric, quilt, and other modding API generic instructions will
 - Adds rare oil rig structures
 - yeah thats about it
 - Google Drive Link 1.0: https://drive.google.com/file/d/1_J1FjQl8hBoN21X2CJX0X-tCV4bumUYZ/view?usp=sharing
+- Forge Link: https://legacy.curseforge.com/minecraft/mc-mods/rigs-and-things-by-2727
 ## Changelog
 #### 8/8/24
     - Added mods
