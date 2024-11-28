@@ -1,7 +1,7 @@
 
 ## AGS Minecraft Mod Packs README
 
-A collection of Minecraft modpacks created by arktischer141 and striker_three_one .These modpacks may contain copywritten material, all credit belongs to the orignal owners. 
+A collection of Minecraft modpacks created by arktischer141, striker_three_one, and HomelessHoboGames .These modpacks may contain copywritten material, all credit belongs to the orignal owners. 
 
 
 ## Installation
@@ -44,6 +44,15 @@ Some modpacks use fabric, quilt, and other modding API generic instructions will
 - Not server optimized just yet
 - Features Essential
 - Google Drive Link: https://drive.google.com/file/d/1Tm6miJTzpZT9AkjkCrFZHklP1VYmk46h/view?usp=drive_link
+#### HomeLessHobo's Vannila++ Modpack 1.0.6 (Forge)
+- 1.19.2 Modpack that expands on existing Minecraft elements and adds more features
+- Contains Shaders
+- Runs on low end hardware
+- Contains mods such as The Aether and Twilight Forest
+- Has lots of building and decoration mods
+- Created by close friend of arktischer and striker, HomelessHoboGames be sure to check out his instagram and give him a follow!
+- https://www.instagram.com/TheHomelessHoboGames
+- Google Drive Link: https://drive.google.com/file/d/1iwdAp8Tlpu8IfsB5EYTqbn9mZ3LVA7S-/view?usp=sharing
 ## Current Mods
 #### 2727's Rigs and Things 1.20.1 FORGE
 - Adds rare oil rig structures
